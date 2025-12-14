@@ -23,7 +23,10 @@ $ <ghidra_install_dir>/support/analyzeHeadless <proj_dir> <proj_name> \
     -noanalysis \
     -scriptPath ./ghidra_scripts \
     -preScript CreateMultipleLibrariesHeadless.java \
-    <duplicate_results_file> <output_fidb_file> <compiler> <language_id>
+    <duplicate_results_file> \
+    <output_fidb_file> \
+    <compiler> \
+    <language_id>
 ```
 
 ## reference
