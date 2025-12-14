@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-//Create multiple libraries in a single FID database from Headless Analyzer
+//Create multiple libraries in a single FID database using Ghidra Headless Analyzer
 //  A root is chosen as a folder within the active project
 //  Subfolders at a specific depth from this root form the roots of individual libraries
 //    Library Name, Version, and Variant are created from the directory path elements

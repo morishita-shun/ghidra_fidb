@@ -1,4 +1,5 @@
 # ghidra_fidb
+Create multiple libraries in a single FID database using Ghidra Headless Analyzer
 
 ## usage
 ### set all library files
