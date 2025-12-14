@@ -1,7 +1,7 @@
 # uclibc
-## uclibc_arm.fidb
-libc.a
+- libc.a -> *.o
 
+## uclibc_arm.fidb
 library | version | variant | url
 --|--|--|--
 uClibc | 0.9.30.1 | armv4l, armv5l | https://uclibc.org/downloads/binaries/0.9.30.1/
