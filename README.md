@@ -4,13 +4,13 @@ Create multiple libraries in a single FID database using Ghidra Headless Analyze
 ## usage
 ### set all library files
 ```
-<compiler>/<library>/<version>/<variant>/*.o
+<arbitrary_dir>/<compiler>/<library>/<version>/<variant>/*.o
 ```
 
 ### import all library files
 ```bash
 $ <ghidra_install_dir>/support/analyzeHeadless <proj_dir> <proj_name> \
-    -import <compiler> \
+    -import <arbitrary_dir>/<compiler> \
     -recursive \
     -analysisTimeoutPerFile 600 \
     -scriptPath <ghidra_install_dir>/Ghidra/Features/FunctionID/ghidra_scripts \
