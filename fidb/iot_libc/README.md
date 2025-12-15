@@ -23,6 +23,14 @@ uClibc | SliTaz | mips
 uClibc | Aboriginal_1.2.6 | mips
 musl | Aboriginal_1.4.5 | mips
 
+## iot_libc_mipsel.fidb
+library | version | variant
+--|--|--
+uClibc | 0.9.30.1 | mipsel
+uClibc | SliTaz | mipsel
+uClibc | Aboriginal_1.2.6 | mipsel
+musl | Aboriginal_1.4.5 | mipsel
+
 ## iot_libc_x86.fidb
 library | version | variant
 --|--|--
