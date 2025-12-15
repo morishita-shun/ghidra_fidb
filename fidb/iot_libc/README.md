@@ -47,3 +47,13 @@ uClibc | SliTaz | i486
 uClibc | Aboriginal_1.2.6 | i486, i586, i686
 musl | Aboriginal_1.4.5 | i486, i586, i686
 
+## iot_libc_x86_64.fidb
+- x86:LE:64:default
+
+library | version | variant
+--|--|--
+uClibc | 0.9.30.1 | x86_64
+uClibc | SliTaz | x86_64
+uClibc | Aboriginal_1.2.6 | x86_64
+musl | Aboriginal_1.4.5 | x86_64
+
