@@ -37,6 +37,16 @@ uClibc | SliTaz | mipsel
 uClibc | Aboriginal_1.2.6 | mipsel
 musl | Aboriginal_1.4.5 | mipsel
 
+## iot_libc_sh4.fidb
+- SuperH4:LE:32:default
+
+library | version | variant
+--|--|--
+uClibc | 0.9.30.1 | sh4
+uClibc | SliTaz | sh4
+uClibc | Aboriginal_1.2.6 | sh4
+musl | Aboriginal_1.4.5 | sh4
+
 ## iot_libc_x86.fidb
 - x86:LE:32:default
 
