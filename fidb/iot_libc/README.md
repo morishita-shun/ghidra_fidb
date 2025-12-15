@@ -15,3 +15,11 @@ uClibc | SliTaz | armv4l, armv5l, armv6l
 uClibc | Aboriginal_1.2.6 | armv4l, armv5l, armv6l, armv7l
 musl | Aboriginal_1.4.5 | armv4l, armv5l, armv6l
 
+## iot_libc_x86.fidb
+library | version | variant
+--|--|--
+uClibc | 0.9.30.1 | i586, i686
+uClibc | SliTaz | i486
+uClibc | Aboriginal_1.2.6 | i486, i586, i686
+musl | Aboriginal_1.4.5 | i486, i586, i686
+
