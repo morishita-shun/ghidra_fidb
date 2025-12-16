@@ -47,6 +47,16 @@ uClibc | SliTaz | sh4
 uClibc | Aboriginal_1.2.6 | sh4
 musl | Aboriginal_1.4.5 | sh4
 
+## iot_libc_sparc.fidb
+- sparc:BE:32:default
+
+library | version | variant
+--|--|--
+uClibc | 0.9.30.1 | sparc
+uClibc | SliTaz | sparc
+uClibc | Aboriginal_1.2.6 | sparc
+musl | Aboriginal_1.4.5 | sparc
+
 ## iot_libc_x86.fidb
 - x86:LE:32:default
 
