@@ -26,3 +26,14 @@ Mirai_uClibc | 0.9.30.1 | i586, i686
 Mirai_uClibc | SliTaz | i486
 Mirai_uClibc | Aboriginal_1.2.6 | i486, i586, i686
 Mirai_musl | Aboriginal_1.4.5 | i486, i586, i686
+
+## mirai_mips.fidb
+- MIPS:BE:32:default
+
+library | version | variant
+--|--|--
+Mirai_uClibc | 0.9.30.1 | mips
+Mirai_uClibc | SliTaz | mips
+Mirai_uClibc | Aboriginal_1.2.6 | mips
+Mirai_musl | Aboriginal_1.4.5 | mips
+
