@@ -37,6 +37,16 @@ Mirai_uClibc | SliTaz | mipsel
 Mirai_uClibc | Aboriginal_1.2.6 | mipsel
 Mirai_musl | Aboriginal_1.4.5 | mipsel
 
+## mirai_sh4.fidb
+- SuperH4:LE:32:default
+
+library | version | variant
+--|--|--
+Mirai_uClibc | 0.9.30.1 | sh4
+Mirai_uClibc | SliTaz | sh4
+Mirai_uClibc | Aboriginal_1.2.6 | sh4
+Mirai_musl | Aboriginal_1.4.5 | sh4
+
 ## mirai_x86.fidb
 - x86:LE:32:default
 
