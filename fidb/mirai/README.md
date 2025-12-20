@@ -47,6 +47,16 @@ Mirai_uClibc | SliTaz | sh4
 Mirai_uClibc | Aboriginal_1.2.6 | sh4
 Mirai_musl | Aboriginal_1.4.5 | sh4
 
+## mirai_sparc.fidb
+- sparc:BE:32:default
+
+library | version | variant
+--|--|--
+Mirai_uClibc | 0.9.30.1 | sparc
+Mirai_uClibc | SliTaz | sparc
+Mirai_uClibc | Aboriginal_1.2.6 | sparc
+Mirai_musl | Aboriginal_1.4.5 | sparc
+
 ## mirai_x86.fidb
 - x86:LE:32:default
 
