@@ -67,3 +67,12 @@ Mirai_uClibc | SliTaz | i486
 Mirai_uClibc | Aboriginal_1.2.6 | i486, i586, i686
 Mirai_musl | Aboriginal_1.4.5 | i486, i586, i686
 
+## mirai_x86_64.fidb
+- x86:LE:64:default
+
+library | version | variant
+--|--|--
+Mirai_uClibc | 0.9.30.1 | x86_64
+Mirai_uClibc | SliTaz | x86_64
+Mirai_uClibc | Aboriginal_1.2.6 | x86_64
+Mirai_musl | Aboriginal_1.4.5 | x86_64
