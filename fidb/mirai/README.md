@@ -17,6 +17,15 @@ Mirai_uClibc | SliTaz | armv4l, armv5l, armv6l
 Mirai_uClibc | Aboriginal_1.2.6 | armv4l, armv5l, armv6l, armv7l
 Mirai_musl | Aboriginal_1.4.5 | armv4l, armv5l, armv6l
 
+## mirai_m68k.fidb
+- 68000:BE:32:Coldfire
+
+library | version | variant
+--|--|--
+Mirai_uClibc | 0.9.30.1 | m68k
+Mirai_uClibc | Aboriginal_1.2.6 | m68k
+Mirai_musl | Aboriginal_1.4.5 | m68k
+
 ## mirai_mips.fidb
 - MIPS:BE:32:default
 
