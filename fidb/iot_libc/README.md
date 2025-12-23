@@ -17,6 +17,15 @@ uClibc | SliTaz | armv4l, armv5l, armv6l
 uClibc | Aboriginal_1.2.6 | armv4l, armv5l, armv6l, armv7l
 musl | Aboriginal_1.4.5 | armv4l, armv5l, armv6l
 
+## iot_libc_m68k.fidb
+- 68000:BE:32:Coldfire
+
+library | version | variant
+--|--|--
+uClibc | 0.9.30.1 | m68k
+uClibc | Aboriginal_1.2.6 | m68k
+musl | Aboriginal_1.4.5 | m68k
+
 ## iot_libc_mips.fidb
 - MIPS:BE:32:default
 
